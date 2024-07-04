@@ -14,7 +14,7 @@ The Disease Forecaster App is a web application developed using Streamlit for pr
 - **Brain Tumor Detection:** Utilized a dataset of Brain MRI images with labels for different brain tumor types. Images were preprocessed using transformations such as resizing and normalization, and they were further augmented to increase the size of the dataset.
 
 ### Model Training
-- **Heart Disease Prediction Models:** Trained several models including Logistic Regression, Guassian Naive Bayes, Random Forest, XGBoost, and Support Vector Machines (SVM). Achieved a Mean ROC AUC Score of 0.91 from the Naive Bayes and SVM models, indicating good predictive performance.
+- **Heart Disease Prediction Models:** Trained several models including Logistic Regression, Guassian Naive Bayes, KNN, Random Forest, XGBoost, and Support Vector Machines (SVM). Achieved a Mean ROC AUC Score of 0.91 from the Naive Bayes and SVM models, indicating good predictive performance.
 - **Brain Tumor Detection Model:** Developed a Convolutional Neural Network (CNN) using PyTorch achieving a test accuracy of 99% on the validation dataset. The CNN architecture consisted of multiple convolutional layers with batch normalization, followed by fully connected layers for classification.
 
 ### Deployment
