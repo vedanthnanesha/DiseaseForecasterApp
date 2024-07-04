@@ -21,7 +21,7 @@ The Disease Forecaster App is a web application developed using Streamlit for pr
 - **Web Application:** Developed a user-friendly web interface using Streamlit to allow users to interact with the models. Integrated model predictions into the app to provide instantaneous results.
 
 ## Models Used
-- **Logistic Regression:** Baseline model for heart disease prediction.
+- **Logistic Regression:** Baseline model for simple 2 class prediction.
 - **Naive Bayes:** Probabilistic classifier based on Bayes' theorem with strong independence assumptions between features.
 - **Random Forest:** Ensemble learning method known for robustness and accuracy, by utilizing multiple decision trees.
 - **XGBoost:** Gradient boosting algorithm optimized for performance.
